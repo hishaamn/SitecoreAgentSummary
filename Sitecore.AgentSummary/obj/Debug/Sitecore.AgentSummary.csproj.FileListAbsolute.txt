@@ -1,0 +1,7 @@
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.AgentSummary\Sitecore.AgentSummary\bin\Sitecore.AgentSummary.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.AgentSummary\Sitecore.AgentSummary\bin\Sitecore.AgentSummary.pdb
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.AgentSummary\Sitecore.AgentSummary\bin\Sitecore.Kernel.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.AgentSummary\Sitecore.AgentSummary\bin\Newtonsoft.Json.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.AgentSummary\Sitecore.AgentSummary\obj\Debug\Sitecore.AgentSummary.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.AgentSummary\Sitecore.AgentSummary\obj\Debug\Sitecore.AgentSummary.pdb
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.AgentSummary\Sitecore.AgentSummary\obj\Debug\Sitecore.AgentSummary.csprojResolveAssemblyReference.cache
